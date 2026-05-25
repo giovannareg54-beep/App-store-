@@ -1,0 +1,6 @@
+{
+  "name": "iPhone 13",
+  "description": "Simulador de iPhone 13 rodando iOS 15 com App Store, Safari, Notas, Calculadora, Clima, Ajustes e AssistiveTouch funcionais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
